@@ -2,7 +2,7 @@
 """
 @author: Fang Yao
 @file  : formatter.py
-@time  : 2022/04/29 15:50
+@time  : 2022/04/29 20:50
 @desc  : 
 """
 import pysrt
