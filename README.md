@@ -1,4 +1,8 @@
-<img src="https://github.com/YaoFANGUK/audio-subtitle-extractor/raw/main/design/demo.gif" alt="demo">
+### DEMO
+
+<img src="https://github.com/YaoFANGUK/video-subtitle-generator/blob/main/design/demo.gif?raw=true" alt="demo">
+
+### 使用方法
 
 安装依赖：
 ```shell
@@ -21,4 +25,3 @@ pip install -r requirements.txt
 ```SHELL
 python main.py
 ```
-s
