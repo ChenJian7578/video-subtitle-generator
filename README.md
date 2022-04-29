@@ -7,6 +7,8 @@ pip install -r requirements.txt
 
 使用方法：
 
+- 目前只支持英文字幕生成
+
 ```shell
     # 1.指定音视频文件路径
     wav_path = './test/test.flv'
@@ -15,3 +17,8 @@ pip install -r requirements.txt
     # 3. 运行字幕生成
     ret = sg.run()
 ```
+- 运行
+```SHELL
+python main.py
+```
+s

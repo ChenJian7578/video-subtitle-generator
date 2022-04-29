@@ -229,7 +229,6 @@ class SubtitleGenerator:
 
 
 if __name__ == '__main__':
-    wav_path = os.path.join(os.path.dirname(__file__), 'test', 'test.flv')
-    sg = SubtitleGenerator(wav_path)
-    ret = sg.run()
-    print(ret)
+    video_path = input('请输入视频地址: ').strip()
+    sg = SubtitleGenerator(video_path)
+    sg.run()
